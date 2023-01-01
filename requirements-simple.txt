@@ -1,0 +1,2 @@
+# Simple requirements that work with Python 3.12
+# No external dependencies needed for the demo version
